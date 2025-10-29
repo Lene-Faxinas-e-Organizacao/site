@@ -1,0 +1,58 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TOPSTACK | Inteligência Artificial, Automações e Software Sob Medida</title>
+    <meta name="description" content="Transforme seu negócio com a TOPSTACK. IA, automações e software sob medida para eliminar tarefas, otimizar marketing e trazer clareza com BI. Democratizamos o acesso a IA e automações para pequenas empresas. Otimize processos, reduza custos e maximize resultados.">
+    <meta name="keywords" content="Inteligência Artificial, Automações, Software Sob Medida, Otimização de Marketing, Business Intelligence, IA para pequenas empresas, TOPSTACK, automação de processos, redução de custos, aumento de eficiência">
+    <meta name="author" content="TOPSTACK">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.topstack.com.br/">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" media="print" onload="this.media='all'">
+    <noscript>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
+    </noscript>
+    
+    <!-- SEO & Favicon Meta Tags -->
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Modern Favicons -->
+    <link rel="icon" href="/assets/visual-identity/favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="/assets/visual-identity/favicon.ico" sizes="any"> <!-- Fallback for older browsers -->
+
+    <!-- Apple Touch Icon -->
+    <link rel="apple-touch-icon" href="/assets/visual-identity/apple-touch-icon.png">
+
+    <!-- Web App Manifest -->
+    <link rel="manifest" href="site.webmanifest">
+
+    <!-- Tag verification / Facebook -->
+    <meta name="facebook-domain-verification" content="hogtr6v8qvs9706x64qfy3uw2ocbxh" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MDTP8RDR');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.topstack.com.br/">
+    <meta property="og:title" content="TOPSTACK | IA, Automações e Software Sob Medida">
+    <meta property="og:description" content="A TOPSTACK conecta inovação e propósito, criando soluções de IA, automações e software sob medida que liberam o seu potencial e fazem a tecnologia trabalhar por você.">
+    <meta property="og:image" content="/assets/visual-identity/topstack-og-image-1200x630-cf.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://www.topstack.com.br/">
+    <meta property="twitter:title" content="TOPSTACK | IA, Automações e Software Sob Medida">
+    <meta property="twitter:description" content="A TOPSTACK conecta inovação e propósito, criando soluções de IA, automações e software sob medida que liberam o seu potencial e fazem a tecnologia trabalhar por você.">
+    <meta property="twitter:image" content="/assets/visual-identity/topstack-og-image-1200x630-cf.png">
+
+</head>
